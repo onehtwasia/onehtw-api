@@ -48,3 +48,6 @@ Consumed by onehtw-admin
 
 ## Database Documentation
 The database is Postgres. See [Schema Documentation](schema.md) for info on the database schema.
+
+## Utilities
+Run `node utils/dbdocs` to auto-update the schema documentation.

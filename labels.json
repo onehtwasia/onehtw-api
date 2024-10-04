@@ -1,0 +1,389 @@
+{
+  "app.general.name": {
+    "title": "App Name",
+    "description": "The Application Name",
+    "default": "The One App"
+  },
+  "app.general.readStatus": {
+    "title": "Read Status Label",
+    "description": "Used to indicate that an item has been read.",
+    "default": "READ"
+  },
+  "app.general.unreadStatus": {
+    "title": "Unread Status Label",
+    "description": "Used to indicate that an item has not been read.",
+    "default": "UNREAD"
+  },
+  "app.general.searchPlaceholder": {
+    "title": "Search Placeholder",
+    "description": "Used as a placeholder in search boxes.",
+    "default": "Search..."
+  },
+  "app.general.date": {
+    "title": "Day Indicator",
+    "description": "Used to indicate which day (out of the total 47) the user is on. The # symbol is dynamically replaced with the correct number.",
+    "default": "Day #"
+  },
+  "app.general.confirmButton": {
+    "title": "Confirm Button Label",
+    "description": "Gives users the option to confirm an action.",
+    "default": "Confirm"
+  },
+  "app.general.cancelButton": {
+    "title": "Cancel Button Label",
+    "description": "Gives users the option to cancel an action.",
+    "default": "Cancel"
+  },
+  "app.countdown.title": {
+    "title": "Countdown Title",
+    "description": "The title of the 'countdown' page",
+    "default": "Welcome"
+  },
+  "app.countdown.daysRemaining": {
+    "title": "Countdown Days Remaining Label",
+    "description": "Indicates the number of days remaining in the countdown. This label automatically replaces # with the correct number of days.",
+    "default": "# days until Lent"
+  },
+  "app.countdown.description": {
+    "title": "Countdown Description",
+    "description": "Descriptive text on the 'countdown' page to help users understand the purpose of the app, and what they can do. This only appears during the countdown period.",
+    "default": "This app is designed to help you reflect and pray daily during the Lent season. Each day, you'll get one scripture, one devotion, one story, and one prayer. The first day starts on March 6, 2019."
+  },
+  "app.countdown.explore": {
+    "title": "Countdown Explore Content Button",
+    "description": "A button on the Countdown page. When tapped, users are taken to the list of all days.",
+    "default": "Explore content"
+  },
+  "app.countdown.invite": {
+    "title": "Countdown Invite Friends Button",
+    "description": "A button on the Countdown page. When tapped, users are able to share a link with friends, inviting them to use the app.",
+    "default": "Invite friends"
+  },
+  "app.countdown.invitationText": {
+    "title": "Countdown Invitation Text",
+    "description": "Default text sent to friends inviting them to try the app.",
+    "default": "Engage with the Lord through this daily Lent reading app, designed by Hong Kong churches for Hong Kong churches!"
+  },
+  "app.countdown.learnmore": {
+    "title": "Countdown Learn More Button",
+    "description": "A button on the Countdown page. When tapped, users are taken to the Learn More page.",
+    "default": "Learn more"
+  },
+  "app.branding.oneword": {
+    "title": "One Word Branding",
+    "description": "Literal translation for 'One Word'. Used as part of general app branding.",
+    "default": "One Word"
+  },
+  "app.branding.onechurch": {
+    "title": "One Church Branding",
+    "description": "Literal translation for 'One Church'. Used as part of general app branding.",
+    "default": "One Church"
+  },
+  "app.branding.onecity": {
+    "title": "One City Branding",
+    "description": "Literal translation for 'One City'. Used as part of general app branding.",
+    "default": "One City"
+  },
+  "app.branding.onelord": {
+    "title": "One Lord Branding",
+    "description": "Literal translation for 'One Lord'. Used as part of general app branding.",
+    "default": "One Lord"
+  },
+  "app.content.playAllButton": {
+    "title": "Play All Button",
+    "description": "The button label to play all audio.",
+    "default": "Play All"
+  },
+  "app.content.readingsTitle": {
+    "title": "Daily Title for Readings",
+    "description": "The title of the Readings section of the daily content.",
+    "default": "Readings"
+  },
+  "app.content.devotionalTitle": {
+    "title": "Daily Title for Devotional",
+    "description": "The title of the Devotional section of the daily content.",
+    "default": "Devotional"
+  },
+  "app.content.prayerTitle": {
+    "title": "Daily Title for Prayer",
+    "description": "The title of the Prayer section of the daily content.",
+    "default": "Prayer Points"
+  },
+  "app.content.videoTitle": {
+    "title": "Daily Title for Video",
+    "description": "The title of the Video section of the daily content.",
+    "default": "Video"
+  },
+  "app.bible.remoteBible": {
+    "title": "Bible.is Button Label",
+    "description": "A button users can press to open the current Bible reading on Bible.is",
+    "default": "Read on Bible.is"
+  },
+  "app.bible.audioCopyright": {
+    "title": "Bible Audio Copyright Label",
+    "description": "Displayed before Bible audio copyright info.",
+    "default": "Audio Copyright"
+  },
+  "app.bible.textCopyright": {
+    "title": "Bible Text Copyright Label",
+    "description": "Displayed before Bible text copyright info.",
+    "default": "Text Copyright"
+  },
+
+  "app.welcome.introLanguage": {
+    "title": "Select Language Instruction",
+    "description": "Welcomes users to the app, and asks them to select a language.",
+    "default": "Welcome to the One App. This app is designed to help you reflect and pray daily during the Lent season. Please select a language to start."
+  },
+  "app.welcome.introChurch": {
+    "title": "Select Church Instruction",
+    "description": "Helps users understand why they are asked to select a church.",
+    "default": "Please indicate which church you attend (if any)."
+  },
+  "app.welcome.otherChurch": {
+    "title": "Other/None Church Label",
+    "description": "A default value for users to choose if their church is not listed.",
+    "default": "Other/None"
+  },
+
+  "app.audio.unsupportedDevice": {
+    "title": "Audio Unsupported Warning",
+    "description": "A warning shown to users when their device doesn't support the available audio format.",
+    "default": "Your device does not support this audio format."
+  },
+  "app.today.title": {
+    "title": "Today Tab Label",
+    "description": "Title of the Today tab, which jumps to the current day's readings.",
+    "default": "Today"
+  },
+  "app.home.title": {
+    "title": "Home Tab Label",
+    "description": "Title of the Home tab, which jumps to the home view (before and after the campaign)",
+    "default": "Home"
+  },
+  "app.list.title": {
+    "title": "All Tab Label",
+    "description": "Title of the All tab, which lists all days in the reading plan.",
+    "default": "All"
+  },
+  "app.list.campaignselect": {
+    "title": "All Tab Campaign Select Label",
+    "description": "All Tab Campaign Select Label",
+    "default": "Campaign"
+  },
+  "app.list.walkingcampaign": {
+    "title": "Walking with Jesus Campaign Name",
+    "description": "Walking with Jesus Campaign Name",
+    "default": "Walking with Jesus"
+  },
+  "app.list.lent": {
+    "title": "Lent Campaign Name",
+    "description": "Lent Jesus Campaign Name",
+    "default": "Lent"
+  },
+  "app.settings.title": {
+    "title": "Settings Tab Label",
+    "description": "Title of the Settings tab",
+    "default": "Settings"
+  },
+  "app.settings.language": {
+    "title": "Language Settings Title",
+    "description": "Title of the Language Settings page",
+    "default": "Language"
+  },
+  "app.settings.church": {
+    "title": "Church Settings Title",
+    "description": "Title of the Select Church Settings page",
+    "default": "My Church"
+  },
+  "app.settings.notifications": {
+    "title": "Notification Settings Title",
+    "description": "Title of the Notification Settings page",
+    "default": "Notifications"
+  },
+  "app.settings.enableNotifications": {
+    "title": "Enable Notifications Button",
+    "description": "Button users press to enable app notifications.",
+    "default": "Enable Notifications"
+  },
+  "app.settings.disableNotifications": {
+    "title": "Disable Notifications Button",
+    "description": "Button users press to disable app notifications.",
+    "default": "Disable Notifications"
+  },
+  "app.settings.about": {
+    "title": "About Page Title",
+    "description": "Title of the About Page",
+    "default": "About"
+  },
+  "app.settings.aboutDescription": {
+    "title": "About Page Description",
+    "description": "Description text at the top of the about page",
+    "default": "Faith Comes By Hearing and Hong Kong Evangelical Fellowship initiate this campaign to express the unity of believers around Hong Kong under the Word of God. We are One Church and there is only One Body of Christ. Together, in Hong Kong, we will listen to His Word; starting with Luke: his Gospel story as he tells us about the life and ministry of Jesus Christ; and then the Book of Acts, as the early believers shared the good news of Jesus to the world around them. \n We know that our Lord will be delighted when the Body of Christ is united. As we participate to listen and meditate on the Word of God together, we trust that hearts will be ignited and there will be a revival as we are reminded of our call to be witnesses to the end of the world. The Word of God is powerful, sharper than a two-edged sword; there will be restoration and transformation of hearts and lives. \nWe believe at the end of the 47 days' campaign, as the Word of God abides in our hearts, we will be ready to partner and help the Church to grow to a new season of fruitfulness."
+  },
+  "app.settings.reset": {
+    "title": "Reset Button Label",
+    "description": "Button users press to initiate an app reset.",
+    "default": "Reset App"
+  },
+  "app.settings.resetConfirmation": {
+    "title": "Reset Confirmation Label",
+    "description": "Message shown to users confirming they wish to reset the app settings.",
+    "default": "Are you sure you wish to reset the app?  All settings and data will be removed."
+  },
+  "app.settings.partnersListTitle": {
+    "title": "Partners List Title",
+    "description": "A message shown to users above the partners list",
+    "default": "Partners"
+  },
+  "app.completed.title": {
+    "title": "Completed Title",
+    "description": "A title to show users when the campaign is finished",
+    "default": "Thank you"
+  },
+  "app.completed.description": {
+    "title": "Completed Description",
+    "description": "A message to show users when the campaign is finished (appears below the title)",
+    "default": "Thank you for using this app. The Lent campaign is now finished. Visit the link below to learn more."
+  },
+  "app.completed.actionLabel": {
+    "title": "Completed Action Label",
+    "description": "A button label that users can click on when the campaign is finished.",
+    "default": "Learn more"
+  },
+  "app.news.title": {
+    "title": "News Tab Label",
+    "description": "Title of the News tab, which displays news about the ONE campaign",
+    "default": "News"
+  },
+  "app.news.placeholder": {
+    "title": "News Tab Placeholder",
+    "description": "Placeholder text displayed when no news about the ONE campaign is available in this language.",
+    "default": "News about the ONE Hearing the Word campaign will appear here soon."
+  },
+  "app.news.more": {
+    "title": "More News Button",
+    "description": "More news button",
+    "default": "See more"
+  },
+  "app.films.dailyFilm": {
+    "title": "Daily Film",
+    "description": "Title of daily film section",
+    "default": "Daily Film"
+  },
+  "app.films.weeklyFilm": {
+    "title": "Weekly Film",
+    "description": "Title of weekly film section",
+    "default": "Weekly Film"
+  },
+  "app.general.markAllAsUnread": {
+    "title": "Mark All As Read",
+    "description": "Label of the Mark All As Read button",
+    "default": "Mark All As Read"
+  },
+  "app.general.backButton": {
+    "title": "Back",
+    "description": "Back Button Label",
+    "default": "Back"
+  },
+  "app.content.specialPrayerTitle": {
+    "title": "Pray HK: ONE minute @ ONE pm",
+    "description": "One minute prayer title",
+    "default": "Pray HK: ONE minute @ ONE pm"
+  },
+  "app.content.specialPrayerHeader": {
+    "title": "Special Prayer Header",
+    "description": "Special Prayer Header",
+    "default": "Together we shall lift our voice in unity to the Lord!"
+  },
+  "app.content.bibleQuoteHeader": {
+    "title": "Bible Quote Header",
+    "description": "Bible Quote Header",
+    "default": "Bible Quote"
+  },
+  "app.general.share": {
+    "title": "Share Button Label",
+    "description": "Share Button Label",
+    "default": "Share"
+  },
+  "app.content.openingPrayerTitle": {
+    "title": "Opening Prayer Title",
+    "description": "Opening Prayer Title",
+    "default": "Opening Prayer"
+  },
+  "app.content.closingPrayerTitle": {
+    "title": "Closing Prayer Title",
+    "description": "Closing Prayer Title",
+    "default": "Closing Prayer"
+  },
+  "app.general.donateButton": {
+    "title": "Donate Button Label",
+    "description": "Donate Button Label",
+    "default": "Give"
+  },
+  "app.settings.country": {
+    "title": "Select Country View Title",
+    "description": "Select Country View Title",
+    "default": "Country"
+  },
+  "app.welcome.introCountry": {
+    "title": "Select Country Message",
+    "description": "Select Country Message",
+    "default": "Select Country"
+  },
+  "app.testimonies.title": {
+    "title": "Testimonies Tab Title",
+    "description": "Testimonies Tab Title",
+    "default": "Testimonies"
+  },
+  "app.testimonies.placeholder": {
+    "title": "Testimonies Placeholder",
+    "description": "Placeholder text displayed when no testimonies are available in this language.",
+    "default": "Testimonies will appear here soon."
+  },
+  "app.settings.preferences": {
+    "title": "Preferences Title",
+    "description": "Preferences View Title",
+    "default": "Preferences"
+  },
+  "app.settings.theme": {
+    "title": "Theme Title",
+    "description": "Theme Option Label",
+    "default": "Theme"
+  },
+  "app.settings.lightmode": {
+    "title": "Light Mode Label",
+    "description": "Light Mode Option Label",
+    "default": "Light Mode"
+  },
+  "app.settings.darkmode": {
+    "title": "Dark Mode Label",
+    "description": "Dark Mode Option Label",
+    "default": "Dark Mode"
+  },
+  "app.settings.fontsize": {
+    "title": "Font Size Title",
+    "description": "Font Size Option Label",
+    "default": "Font Size"
+  },
+  "app.settings.fontfamily": {
+    "title": "Font Family Title",
+    "description": "Font Family Option Label",
+    "default": "Font Family"
+  },
+  "app.settings.default": {
+    "title": "Default Label",
+    "description": "Default Label",
+    "default": "Default"
+  },
+  "app.settings.large": {
+    "title": "Large Font Label",
+    "description": "Large Font Option Label",
+    "default": "Large"
+  },
+  "app.settings.xlarge": {
+    "title": "Extra-Large Font Label",
+    "description": "Extra-Large Font Option Label",
+    "default": "Extra-Large"
+  }
+}
